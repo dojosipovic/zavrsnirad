@@ -1,0 +1,2 @@
+INSERT INTO administratori(ime, prezime, email, username, password)
+                VALUES ('Tomislav', 'Jakupic', 'admin@gmail.com', 'admin', '6e84f07c13b9c069dc8d142f09c858b0');
