@@ -35,3 +35,6 @@ Završni rad napravljen je u obliku web aplikacije u PHP-u pomoću kojeg učenic
 ![image](https://user-images.githubusercontent.com/58932524/236183884-927ea40d-ebc3-4e9e-9048-da9b9d7c9ec1.png)
 ### Zahtjevi za završne radove
 ![image](https://user-images.githubusercontent.com/58932524/236184040-90f5da46-1fda-4205-951f-8ed6c07ff0db.png)
+
+## Model baze podataka
+![image](https://user-images.githubusercontent.com/58932524/236186082-5b5ec78e-13e1-4c86-8495-03d982eed509.png)
